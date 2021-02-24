@@ -5,7 +5,7 @@ Convert images into blocks, try friends' blocks, or use the supplied type to set
 
 All files and instructions necessary to print and use a zine machine are open to the public and available on this website.
 
-Zine Machine is an experiment in guerilla digital fabrication by [Gestalte Design](gestalte.design)
+Zine Machine is an experiment in guerilla digital fabrication by [Gestalte Design](https://gestalte.design)
 
 # Table of Contents
 

@@ -60,7 +60,7 @@ You can find many "vectorizers" online. We've used [rapid resizer](https://onlin
 
 You may fill out issues here on the GitHub, of course.
 
-or DM us on [Twitter](https://twitter.com/gestalte_design) or [Instagram](https//instagram.com/gestalte.design)
+or DM us on [Twitter](https://twitter.com/gestalte_design) or [Instagram](https://instagram.com/gestalte.design)
 
 # License
 
